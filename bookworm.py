@@ -7,28 +7,6 @@
 # Bookworm
 
 
-## Overview
-
-In this project, you will build a simple question-answering agent that is able to learn from any text data you provide, and answer queries posed in natural language. You will use IBM Watson's cloud-based services to process the input text data and find relevant responses.
-
-
-
-## Getting Started
-
-In order to use Watson's cloud-based services, you first need to create an account on the [IBM Bluemix platform](https://console.ng.bluemix.net/).
-
-<div>
-    <div style="display: table-cell; width: 50%;">
-        <img src="images/watson-logo.png" alt="IBM Watson logo" width="200" />
-    </div>
-    <div style="display: table-cell; width: 50%;">
-        <img src="images/bluemix-logo.png" alt="IBM Bluemix logo" width="400" />
-    </div>
-</div>
-
-Then, for each service you want to use, you have to create an instance of that service. You can continue with the tasks below, and create a service instance when indicated.
-
-
 # ## 1. Create and configure Discovery service
 # 
 # Create an instance of the **Discovery** service. You will use this to process a set of text documents, and _discover_ relevant facts and relationships.
