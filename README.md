@@ -1,5 +1,5 @@
 # Project: Bookworm
-
+Run in Jupyter Notebook.
 A simple question-answering system built using IBM Watson's NLP services.
 
 ## Overview
